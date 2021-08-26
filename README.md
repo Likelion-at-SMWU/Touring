@@ -1,4 +1,6 @@
 # Touring
+### Team P4P4
+
 세상의 모든 여행, 투어링과 함께.
 우리는 지금 함께 여행 중, Tour-ing
 
@@ -26,3 +28,12 @@ My scrap 페이지에서는 여태 사용자가 스크랩해둔 정보들을 한
 
 투어링으로 우리 즐거운 여행 함께해요 💕
 긴 글 읽어주셔서 감사합니다.
+
+![메인화면](https://user-images.githubusercontent.com/65678579/130319871-6d1ae95d-815a-4c21-845d-564bfa1ab418.png)
+![스크랩](https://user-images.githubusercontent.com/65678579/130319882-94f876f8-2c04-4e04-801f-ec0c711a3c6c.png)
+![목록 검색](https://user-images.githubusercontent.com/65678579/130319887-583c9492-c6ba-42fb-9e38-2081b691cb6d.png)
+![스크랩 목록](https://user-images.githubusercontent.com/65678579/130319891-28fa8462-e4d7-43d5-9742-89156919fc25.png)
+![계획 만들기](https://user-images.githubusercontent.com/65678579/130319894-4e76c2d5-2e4e-433e-af67-ded9b1be326e.png)
+![추천 페이지](https://user-images.githubusercontent.com/65678579/130319899-0abeba7b-ff0c-4908-a4cb-d155a34a9cae.png)
+![여행 게시물](https://user-images.githubusercontent.com/65678579/130319905-0239d212-3b67-4b5c-ab45-46a134e06a85.png)
+
